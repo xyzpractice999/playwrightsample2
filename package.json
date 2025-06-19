@@ -1,0 +1,23 @@
+{
+  "name": "playwrightsample2",
+  "version": "1.0.0",
+  "description": "playwrightsample2",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xyzpractice999/playwrightsample2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/xyzpractice999/playwrightsample2/issues"
+  },
+  "homepage": "https://github.com/xyzpractice999/playwrightsample2#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.53.1",
+    "@types/node": "^24.0.3"
+  }
+}
